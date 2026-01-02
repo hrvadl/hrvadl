@@ -28,13 +28,6 @@ I'm a *Go engineer* and I've worked with:
 ### Tools
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" height="36" alt="NeoVim" /></a>
 
-
-### Education
-
-I'm a fourth-year student at National Aerospace University in Kharkiv.
-<br />
-<a href="https://khai.edu/ua/" target="_blank" rel="noreferrer"><img src="https://k305.khai.edu/images/1200px-_.png" height="30" alt="Khai" /></a>
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/grwadl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;
